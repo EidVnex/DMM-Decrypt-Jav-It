@@ -1,5 +1,5 @@
 # DMM-Decrypt-Jav-It
-This is a patched file for the JAV-IT project, used to decrypt videos from DMM. Many users ended up buying it multiple times for such a simple task. To address this issue, I made this patch and am sharing it for free. Enjoy!
+This is a patched file for the JAV-IT project, used to decrypt videos from DMM. Many users ended up buying it multiple times for a software since its author want to make money from the dark when not pointing customer to the full version. To address this issue, I made this patch and am sharing it for free. Enjoy!
 
 **Download**
 - You can download the latest version on the release https://github.com/EidVnex/DMM-Decrypt-Jav-It/releases/tag/released
